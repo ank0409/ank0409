@@ -1,4 +1,4 @@
-### Hi there 👋, I am anky
+### Hi there 👋, I am AnkY
 #### Work from home != Work for home
 ![Work from home != Work for home](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
